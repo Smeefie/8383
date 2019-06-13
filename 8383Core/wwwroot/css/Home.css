@@ -1,0 +1,173 @@
+﻿/* ===================================================================================== */
+
+/* MAIN CONTAINER */
+
+.homeContainer {
+    height: auto;
+}
+
+*{
+    overflow: hidden;
+}
+
+.homeContainer ul,
+li {
+    padding: 15px 0px;
+    list-style: none;
+}
+
+.homeInput input {
+    width: 300px;
+    display: inline-block;
+    background-color: #fff;
+    box-shadow: 0 0 2px rgb(204, 204, 204);
+    box-sizing: border-box;
+    transition: all .5s ease;
+    position: relative;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #333;
+    height: 100%;
+    text-align: left;
+    border: none;
+    padding: 8px;
+}
+
+.buttonClass{
+    outline: 0;
+    text-decoration: none;
+    background: #222;
+    border: 0;
+    padding: 10px 35px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+    transition: .2s;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 700;
+}
+
+.buttonClass:hover{
+    background: #555;
+    transition: .2s;
+}
+
+
+/* dropdown */
+
+.dropdown {
+    width: 300px;
+    display: inline-block;
+    background-color: #fff;
+    /*   border-radius: 5px; */
+    box-shadow: 0 0 2px rgb(204, 204, 204);
+    transition: all .5s ease;
+    position: relative;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 700;
+    color: #333;
+    height: 100%;
+    text-align: left
+}
+
+.dropdown .select {
+    cursor: pointer;
+    display: block;
+    padding: 10px
+}
+
+.dropdown .select > i {
+    font-size: 13px;
+    color: #333;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    float: right;
+    line-height: 20px
+}
+
+.dropdown:hover {
+    box-shadow: 0 0 4px rgb(204, 204, 204)
+}
+
+.dropdown:active {
+    background-color: #f8f8f8
+}
+
+.dropdown.active:hover,
+.dropdown.active {
+    box-shadow: 0 0 4px rgb(204, 204, 204);
+    /*     border-radius: 5px 5px 0 0; */
+    background-color: #ddd;
+}
+
+    .dropdown.active .select > i {
+        transform: rotate(-90deg);
+    }
+
+.dropdown .dropdown-menu {
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    left: 0;
+    margin-top: 1px;
+    box-shadow: 0 1px 2px rgb(204, 204, 204);
+    /*     border-radius: 0 1px 5px 5px; */
+    overflow: hidden;
+    display: none;
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 9;
+}
+
+.dropdown .dropdown-menu li {
+    padding: 10px;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+.dropdown .dropdown-menu {
+    padding: 0;
+    list-style: none;
+}
+
+.dropdown .dropdown-menu li:hover {
+    background-color: #ddd;
+    color: white;
+}
+
+.dropdown .dropdown-menu li:active {
+    background-color: #ddd;
+}
+
+
+
+/* ===================================================================================== */
+
+/* MID SIZE SCREEN */
+
+@media screen and (max-width: 900px) and (min-width: 400px) {
+}
+
+/* ===================================================================================== */
+
+/* MEDIUM SCREEN SIZES */
+
+@media screen and (max-width: 700px) and (min-width: 400px) {
+}
+
+@media screen and (max-width: 580px) and (min-width: 400px) {
+}
+
+/* ===================================================================================== */
+
+/* SMALLEST SIZE SCREEN */
+
+@media screen and (max-width: 400px) {
+}

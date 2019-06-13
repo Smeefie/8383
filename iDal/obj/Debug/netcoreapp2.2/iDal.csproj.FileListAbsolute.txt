@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\8383Core\iDal\bin\Debug\netcoreapp2.2\Model.dll
+C:\Users\Gebruiker\source\repos\8383Core\iDal\obj\Debug\netcoreapp2.2\iDal.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\8383Core\iDal\obj\Debug\netcoreapp2.2\iDal.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\8383Core\iDal\obj\Debug\netcoreapp2.2\iDal.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\8383Core\iDal\obj\Debug\netcoreapp2.2\iDal.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\8383Core\iDal\bin\Debug\netcoreapp2.2\iDal.deps.json
+C:\Users\Gebruiker\source\repos\8383Core\iDal\bin\Debug\netcoreapp2.2\iDal.dll
+C:\Users\Gebruiker\source\repos\8383Core\iDal\bin\Debug\netcoreapp2.2\iDal.pdb
+C:\Users\Gebruiker\source\repos\8383Core\iDal\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Users\Gebruiker\source\repos\8383Core\iDal\obj\Debug\netcoreapp2.2\iDal.csproj.CopyComplete
+C:\Users\Gebruiker\source\repos\8383Core\iDal\obj\Debug\netcoreapp2.2\iDal.dll
+C:\Users\Gebruiker\source\repos\8383Core\iDal\obj\Debug\netcoreapp2.2\iDal.pdb

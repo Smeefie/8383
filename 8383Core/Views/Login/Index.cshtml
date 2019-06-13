@@ -1,0 +1,42 @@
+﻿@model _8383Core.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+<body style="padding: 0px;">
+    <!-- Header   -->
+    <div class="container">
+        <div class="info">
+            <h1>8383</h1>
+            <span>Your travel companion</span>
+        </div>
+    </div>
+    <div class="form">
+        <div class="thumbnail"><img src="~/Resources/logo.png" /></div>
+        <!--   REGISTER FORM   -->
+        <form asp-action="Register"class="register-form">
+            <input asp-for="firstname" type="text" placeholder="First Name *" />
+            <input asp-for="lastname" type="text" placeholder="Last Name *" />
+            <input asp-for="username" type="text" placeholder="Username *" />
+            <input asp-for="password" type="password" placeholder="Password *" />
+            <input asp-for="email" type="text" placeholder="Email Address" />
+            <button>Create</button>
+            <p class="message">Already registered? <a href="#">Sign In</a></p>
+        </form>
+        <!--   LOGIN FORM   -->
+        <form asp-action="Login" class="login-form">
+            <input asp-for="username" placeholder="username" />
+            <input asp-for="password" placeholder="password" />
+            <button>Login</button>
+            <p class="message">Not registered? <a href="#">Create an account</a></p>
+        </form>
+    </div>
+
+    @section Scripts{
+        <script src="~/js/Login.js"></script>
+    }
+
+    @section Stylesheets{
+        <link rel="stylesheet" href="~/css/Login.css" />
+    }
+</body>

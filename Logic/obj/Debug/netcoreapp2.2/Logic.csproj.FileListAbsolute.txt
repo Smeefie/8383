@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\iDal.dll
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\Model.dll
+C:\Users\Gebruiker\source\repos\8383Core\Logic\obj\Debug\netcoreapp2.2\Logic.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\8383Core\Logic\obj\Debug\netcoreapp2.2\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\8383Core\Logic\obj\Debug\netcoreapp2.2\Logic.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\8383Core\Logic\obj\Debug\netcoreapp2.2\Logic.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\Logic.deps.json
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\Logic.dll
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\Logic.pdb
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\iDal.pdb
+C:\Users\Gebruiker\source\repos\8383Core\Logic\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Users\Gebruiker\source\repos\8383Core\Logic\obj\Debug\netcoreapp2.2\Logic.csproj.CopyComplete
+C:\Users\Gebruiker\source\repos\8383Core\Logic\obj\Debug\netcoreapp2.2\Logic.dll
+C:\Users\Gebruiker\source\repos\8383Core\Logic\obj\Debug\netcoreapp2.2\Logic.pdb

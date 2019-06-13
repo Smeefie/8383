@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\8383Core\DAL\bin\Debug\netcoreapp2.2\iDal.dll
+C:\Users\Gebruiker\source\repos\8383Core\DAL\bin\Debug\netcoreapp2.2\Model.dll
+C:\Users\Gebruiker\source\repos\8383Core\DAL\obj\Debug\netcoreapp2.2\DAL.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\8383Core\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\8383Core\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\8383Core\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\8383Core\DAL\bin\Debug\netcoreapp2.2\DAL.deps.json
+C:\Users\Gebruiker\source\repos\8383Core\DAL\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\Gebruiker\source\repos\8383Core\DAL\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\Gebruiker\source\repos\8383Core\DAL\bin\Debug\netcoreapp2.2\iDal.pdb
+C:\Users\Gebruiker\source\repos\8383Core\DAL\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Users\Gebruiker\source\repos\8383Core\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CopyComplete
+C:\Users\Gebruiker\source\repos\8383Core\DAL\obj\Debug\netcoreapp2.2\DAL.dll
+C:\Users\Gebruiker\source\repos\8383Core\DAL\obj\Debug\netcoreapp2.2\DAL.pdb
